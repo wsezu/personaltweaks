@@ -1,0 +1,24 @@
+{
+  "banner": "always",
+  "trusted_folders": [
+    "C:\\Users\\SergeZuidinga"
+  ],
+  "last_logged_in_user": {
+    "host": "https://github.com",
+    "login": "wsezu"
+  },
+  "logged_in_users": [
+    {
+      "host": "https://github.com",
+      "login": "sz-rg"
+    },
+    {
+      "host": "https://github.com",
+      "login": "wsezu"
+    }
+  ],
+  "firstLaunchAt": "2026-03-11T00:00:00.000Z",
+  "asked_setup_terminals": [
+    "windows-terminal"
+  ]
+}
